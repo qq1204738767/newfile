@@ -41,5 +41,6 @@ $stmt->execute();
  
 echo "新记录插入成功";
 echo "测试";
+echo "测试2";
 $stmt->close();
 $conn->close();
