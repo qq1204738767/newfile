@@ -40,6 +40,6 @@ $email = "john@example.com";
 $stmt->execute();
  
 echo "新记录插入成功";
- 
+echo "测试";
 $stmt->close();
 $conn->close();
